@@ -1,3 +1,4 @@
+/* A lex program to identify the number of input lines, space characters, tab characters and number of all input characters*/
 /* DESCRIPTION/DEFINITION SECTION */
 %{
 #include<stdio.h>
