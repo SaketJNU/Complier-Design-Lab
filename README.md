@@ -9,3 +9,4 @@
 6. Write a lex program to implement  - a simple calculator. [calculator.l](https://github.com/SaketJNU/Complier-Design-Lab/blob/main/codes/calculator.l).
 7. LEX program to count the number of vowels and consonants in a given string. [vowels_and_consonants.l](https://github.com/SaketJNU/Complier-Design-Lab/blob/main/codes/vowels_and_consonants.l).
 8. Write a lex program to read lines, characters, words in a given input file. [readfile.l](https://github.com/SaketJNU/Complier-Design-Lab/blob/main/codes/readfile.l)
+9. Implement the C Program for identifying constant and classify whether it is integer or real. [integer_or_real.c](https://github.com/SaketJNU/Complier-Design-Lab/blob/main/codes/integer_or_real.c)
