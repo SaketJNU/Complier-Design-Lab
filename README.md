@@ -13,4 +13,4 @@
 10. Write a C-program to eliminate the left recurrision from a given CFG. [left_recurrisionCFG.c](https://github.com/SaketJNU/Complier-Design-Lab/blob/main/codes/left_recurrisionCFG.c)
 11. Write a C program for applying left factoring to a given grammar. [left_factoring.c](https://github.com/SaketJNU/Complier-Design-Lab/blob/main/codes/left_factoring.c)
 12. Write a C program which reads a grammar and find First symbols of all non-terminals. [First_Symbol_of_Grammer.c](https://github.com/SaketJNU/Complier-Design-Lab/blob/main/codes/First_Symbol_of_Grammer.c) and [First_Symbol.c](https://github.com/SaketJNU/Complier-Design-Lab/blob/main/codes/First_Symbol.c)
-
+13. Write a C program which reads a grammar and find FOLLOW symbols of all non-terminals. []()
