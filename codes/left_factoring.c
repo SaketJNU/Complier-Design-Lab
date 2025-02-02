@@ -1,4 +1,5 @@
 /* Write a C program for applying left factoring to a given grammar. */
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
@@ -83,13 +84,13 @@ int main() {
 }
 
 /* Input */
-Enter the number of non-terminals: 1
-Enter the non-terminal for rule 1: 5
-Enter the number of rules for 5: 2
-Enter rule 1 for 5: abX
-Enter rule 2 for 5: abY
-Left factoring rule for 5:
+//Enter the number of non-terminals: 1
+//Enter the non-terminal for rule 1: 5
+//Enter the number of rules for 5: 2
+//Enter rule 1 for 5: abX
+//Enter rule 2 for 5: abY
+//Left factoring rule for 5:
 
 /* Output */
-  5 → abXX
-  X → X | Y
+  //5 → abXX
+  //X → X | Y
