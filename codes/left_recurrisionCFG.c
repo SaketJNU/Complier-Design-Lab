@@ -1,3 +1,4 @@
+/* Write a C-program to eliminate the left recurrision from a given CFG. */
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
@@ -65,9 +66,19 @@ int main() {
     for (int i = 0; i < n; i++) {
         scanf("%s", grammar[i]);
     }
-
     // Removing left recursion
     removeLeftRecursion(grammar, n);
-
     return 0;
 }
+
+/*Output: */
+//Enter the number of grammar rules: 2
+//Enter the grammar rules (one per line):
+//A->Aa
+//A->b
+//After Removing Left Recursion:
+//Left recursion detected in production: A->Aa
+//Rewriting production for A:
+//A -> AaA'
+//A' -> Aa A' | ε
+//A->b
