@@ -11,3 +11,4 @@
 8. Write a lex program to read lines, characters, words in a given input file. [readfile.l](https://github.com/SaketJNU/Complier-Design-Lab/blob/main/codes/readfile.l)
 9. Implement the C Program for identifying constant and classify whether it is integer or real. [integer_or_real.c](https://github.com/SaketJNU/Complier-Design-Lab/blob/main/codes/integer_or_real.c)
 10. Write a C-program to eliminate the left recurrision from a given CFG. [left_recurrisionCFG.c](https://github.com/SaketJNU/Complier-Design-Lab/blob/main/codes/left_recurrisionCFG.c)
+11. Write a C program for applying left factoring to a given grammar. [left_factoring.c](https://github.com/SaketJNU/Complier-Design-Lab/blob/main/codes/left_factoring.c)
