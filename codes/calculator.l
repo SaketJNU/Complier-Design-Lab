@@ -66,3 +66,8 @@ yywrap()
  {
   return 1;
  }
+/*output:*/
+//3 + 3
+//The Answer is 6.
+//3^3
+//The Answer is 27
