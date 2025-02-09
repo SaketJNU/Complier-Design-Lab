@@ -1,4 +1,4 @@
-/* writet a C Program to Find Character Is Delimiter or Operator or Identifier or Keyword or 
+/* Write a C Program to Find Character Is Delimiter or Operator or Identifier or Keyword or 
 Integer or Real Number. */
  
 #include <stdbool.h> 
@@ -137,6 +137,8 @@ char str[100] = "int a = b + 1c";
  parse(str); // calling the parse function  
 return 0;  
 } 
+
+/* Input and Out */
 // saket@DESKTOP-2MBMJIQ:~$ ./a.out
 // 'int' IS A KEYWORD
 // 'a' IS A VALID IDENTIFIER
