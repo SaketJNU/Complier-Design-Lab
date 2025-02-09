@@ -18,4 +18,4 @@
 15. Write a C program which takes a grammar and check for Left-Recursion (may contain left recursion in more than one production) and if found eliminate it display the resultant grammar. [remove_all_left_recurrision.c](https://github.com/SaketJNU/Complier-Design-Lab/blob/main/codes/remove_all_left_recurrision.c)
 16. Write a C program to implement Recursive Descent Parser for any given grammar. [recursive_descent_parser.c](https://github.com/SaketJNU/Complier-Design-Lab/blob/main/codes/recursive_descent_parser.c)
 17. Write a lex Program to Find Given Character is Keyword, Identifier, Number or 
-Invalid. []()
+Invalid. [Keyword_Indetifier_Number_Invalid.l](https://github.com/SaketJNU/Complier-Design-Lab/blob/main/codes/Keyword_Indetifier_Number_Invalid.l)
