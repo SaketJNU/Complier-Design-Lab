@@ -23,4 +23,4 @@ Invalid. [Keyword_Indetifier_Number_Invalid.l](https://github.com/SaketJNU/Compl
 Integer or Real Number.  [Delimiter_-Operator_and_others.c](https://github.com/SaketJNU/Complier-Design-Lab/blob/main/codes/Delimiter_-Operator_and_others.c)
 19. Write a C program find FOLLOW symbols of non-terminals in a given Grammer. [Compute_Follow.c](https://github.com/SaketJNU/Complier-Design-Lab/blob/main/codes/Compute_Follow.c)
 20. Write a C program which reads a grammar and find FOLLOW symbols of all non-terminals. [Compute_Follow_Symbol.c](https://github.com/SaketJNU/Complier-Design-Lab/blob/main/codes/Compute_Follow_Symbol.c)
-21. Program for shift-reduce parser. []()
+21. Program for shift-reduce parser. [shiftreduceparser.c](https://github.com/SaketJNU/Complier-Design-Lab/blob/main/codes/shift-reduce-parser/shiftreduceparser.c)
